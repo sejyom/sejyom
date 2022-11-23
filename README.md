@@ -2,6 +2,8 @@
 
 ### 안뇨뇨 👋
 
+  안녕못해요 깃꾸열받아요 -괴도희선-
+  
 <!--
 **sejyom/sejyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
