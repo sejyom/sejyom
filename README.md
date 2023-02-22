@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   
 ![sejyom's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejyom&show_icons=true&theme=bear)
 
-  </div>
+</div>
