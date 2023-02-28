@@ -1,5 +1,4 @@
-<div align=center>
-
+<div align=center
 ### 안뇨뇨 👋
 
 <!--
@@ -22,5 +21,4 @@ Here are some ideas to get you started:
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akxxkd)](https://solved.ac/akxxkd)
   
 ![sejyom's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejyom&show_icons=true&theme=bear)
-
 </div>
