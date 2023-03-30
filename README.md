@@ -1,6 +1,6 @@
 <div align=center>
-![header](https://capsule-render.vercel.app/api?type=shark&height=200&text=SEJYOM%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3&animation=twinkling)
   
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&text=SEJYOM&animation=twinkling" />
 ## 안뇨뇨 👋  
 
 <!--
