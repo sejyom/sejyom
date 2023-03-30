@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
   ![sejyom's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejyom&show_icons=true&theme=bear)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejyom&layout=compact&exclude_repo=CrimeStatus)]       
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejyom&layout=compact&exclude_repo=CrimeStatus)       
   (https://github.com/sejyom/github-readme-stats)
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akxxkd)](https://solved.ac/akxxkd)
