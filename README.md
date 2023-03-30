@@ -6,6 +6,7 @@
 
 ## 안뇨뇨 👋
 
+  
 <!--
 **sejyom/sejyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  
   ![sejyom's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejyom&show_icons=true&theme=bear)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejyom&layout=compact&exclude_repo=CrimeStatus)       
