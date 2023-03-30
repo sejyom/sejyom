@@ -1,7 +1,7 @@
 <div align=center>
   
   
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=210&section=header&fontSize=70&text=SEJYOM-nl-&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=220&section=header&fontSize=70&text=SEJYOM-nl-&animation=twinkling" />
   
 <br><br><br>
 
