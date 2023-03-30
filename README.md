@@ -7,6 +7,7 @@
 
 ## 안뇨뇨 👋
 
+<br>
 <!--
 **sejyom/sejyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
