@@ -1,6 +1,5 @@
 <div align=center>
   
-  
 <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=210&section=header&fontSize=70&text=SEJYOM-nl-&animation=fadeIn" />
 
 <br><br><br>
