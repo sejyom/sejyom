@@ -2,7 +2,7 @@
   
   
 <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&fontSize=70&text=SEJYOM-nl-&animation=twinkling" />
-<hr><hr><hr>
+<br><br><br>
 ## 안뇨뇨 👋  
 
 <!--
