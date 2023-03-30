@@ -1,5 +1,8 @@
 <div align=center>
   
+  
+[<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&fontSize=70&text=SEJYOM&animation=twinkling" />](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&fontSize=70&text=SEJYOM-nl-&animation=twinkling)
+
 ## 안뇨뇨 👋  
 
 <!--
