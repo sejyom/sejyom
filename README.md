@@ -2,10 +2,9 @@
   
 [<img src="https://capsule-render.vercel.app/api?type=shark&color=ffff99&height=200&section=header&fontSize=70&text=SEJYOM-nl-&animation=fadeIn" />](https://capsule-render.vercel.app/api?type=shark&color=feb6cf&height=200&section=header&fontSize=70&text=SEJYOM-nl-&animation=fadeIn&fontColor=ffffff)
 
-<br><br><br>
+<br>
 
 ## 안뇨뇨 👋
-
   
 <!--
 **sejyom/sejyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
