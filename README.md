@@ -2,8 +2,6 @@
   
 [<img src="https://capsule-render.vercel.app/api?type=shark&color=ffff99&height=200&section=header&fontSize=70&text=SEJYOM-nl-&animation=fadeIn" />](https://capsule-render.vercel.app/api?type=shark&color=feb6cf&height=200&section=header&fontSize=70&text=SEJYOM-nl-&animation=fadeIn&fontColor=ffffff)
 
-<br>
-
 ## 안뇨뇨 👋
   
 <!--
