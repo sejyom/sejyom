@@ -1,6 +1,6 @@
 <div align=center>
   
-[<img src="https://capsule-render.vercel.app/api?type=shark&color=ffff99&height=210&section=header&fontSize=70&text=SEJYOM-nl-&animation=fadeIn" />](https://capsule-render.vercel.app/api?type=shark&color=feb6cf&height=210&section=header&fontSize=70&text=SEJYOM-nl-&animation=fadeIn&fontColor=ffffff)
+[<img src="https://capsule-render.vercel.app/api?type=shark&color=ffff99&height=200&section=header&fontSize=70&text=SEJYOM-nl-&animation=fadeIn" />](https://capsule-render.vercel.app/api?type=shark&color=feb6cf&height=210&section=header&fontSize=70&text=SEJYOM-nl-&animation=fadeIn&fontColor=ffffff)
 
 # 안뇨뇨 👋
   
