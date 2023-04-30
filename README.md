@@ -3,7 +3,8 @@
 [<img src="https://capsule-render.vercel.app/api?type=shark&color=ffff99&height=200&section=header&fontSize=70&text=SEJYOM-nl-&animation=fadeIn" />](https://capsule-render.vercel.app/api?type=shark&color=feb6cf&height=210&section=header&fontSize=70&text=SEJYOM-nl-&animation=fadeIn&fontColor=ffffff)
 
 # 안뇨뇨 👋
-  
+ 
+ 
 <!--
 **sejyom/sejyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
   ![sejyom's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejyom&show_icons=true&theme=bear)
 
