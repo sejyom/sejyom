@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 </div>
 
-![](./profile-3d-contrib/profile-season.svg)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
