@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akxxkd)](https://solved.ac/akxxkd)
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-south-season-animate.svg) -->
 
 </div>
