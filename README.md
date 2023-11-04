@@ -5,7 +5,7 @@
    [<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=ffcccc&section=header&fontSize=70&text=Hi!%20I'm%20Sejyom!-nl-&animation=fadeIn" />](https://capsule-render.vercel.app/api?type=shark&color=feb6cf&height=210&section=header&fontSize=70&text=SEJYOM-nl-&animation=fadeIn&fontColor=ffffff)
    -->
 
-
+<br><br>
 # 안뇨뇨 👋
 
  
